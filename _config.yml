@@ -1,3 +1,3 @@
-name: Web Programming
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+name:Web Programming
+markdown:kramdown
+permalink:/blog/:year/:month/:day/:title
