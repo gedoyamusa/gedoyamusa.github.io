@@ -18,7 +18,7 @@ date: 2021-10-04
     
 4. Oh no, I accidently posted a cat. Let's try that again. 
 
-    ![image](![image](https://user-images.githubusercontent.com/91181196/135865393-b0869c94-d1b1-4c83-8722-5a6b9fe99878.png)
+    ![image](https://user-images.githubusercontent.com/91181196/135865393-b0869c94-d1b1-4c83-8722-5a6b9fe99878.png)
 
 There you go. You know them now. Lucky you.
 
